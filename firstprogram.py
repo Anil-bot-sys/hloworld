@@ -3,7 +3,7 @@ print ("I am Anil MAlla")
 print (23+35)
 
 name = "anil" #string 
-age = 23 # integer
+age = 20 # integer
 price = 29.7 # floating value 
 
 print("My name is : ", name)
